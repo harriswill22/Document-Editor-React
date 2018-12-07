@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import EditorWindow from './Editorwindow'
 
 class App extends Component {
   render() {
